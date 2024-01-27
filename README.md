@@ -20,15 +20,7 @@ Comprehensive evaluation using metrics like accuracy, precision, recall, F1-scor
 Insights into the applicability of machine learning in educational settings, with the Random Forest model demonstrating exceptional capability in predicting student outcomes.
 
 ## Repository Structure
-- `data/`: Dataset and related files.
-- `src/`: Python scripts and notebooks for model development and analysis.
-- `results/`: Output files, including model evaluation metrics and visualizations.
+- `student-mat.csv`: Student performance dataset .
+- `Code.ipynb`: Jupyter Notebook for model development and analysis.
+- `Report.*`: Report including Outputs, model evaluation metrics and visualizations.
 
-## Installation and Usage
-Step-by-step instructions for setting up the project environment, installing necessary dependencies, and guidelines for running the analysis.
-
-## License
-Information about the project's license, outlining usage rights and restrictions.
-
-## Contributors
-Acknowledgment of individuals who contributed to the project, detailing their specific roles and contributions.
